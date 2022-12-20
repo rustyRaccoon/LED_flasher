@@ -1,0 +1,44 @@
+{
+    "type": "InteractiveHtmlBom settings",
+    "version": 1,
+    "pcbmetadata": {
+        "title": "LED_flasher",
+        "revision": "",
+        "company": "",
+        "date": "2022-05-29 11:13:09"
+    },
+    "settings": {
+        "canvaslayout": "FB",
+        "bomlayout": "left-right",
+        "bommode": "grouped",
+        "checkboxes": [
+            "Sourced",
+            "Placed"
+        ],
+        "checkboxStoredRefs": {
+            "Sourced": "10,5,16,12,14,3,1,2,17,0,8,15,11,9,7,4,6,13",
+            "Placed": ""
+        },
+        "darkMode": true,
+        "highlightpin1": false,
+        "redrawOnDrag": true,
+        "boardRotation": 0,
+        "renderPads": true,
+        "renderReferences": true,
+        "renderValues": true,
+        "renderSilkscreen": true,
+        "renderFabrication": false,
+        "renderDnpOutline": false,
+        "renderTracks": false,
+        "renderZones": false,
+        "columnOrder": [
+            "checkboxes",
+            "References",
+            "Value",
+            "Footprint",
+            "Quantity"
+        ],
+        "hiddenColumns": [],
+        "markWhenChecked": "Sourced"
+    }
+}
